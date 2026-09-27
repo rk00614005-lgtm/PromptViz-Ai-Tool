@@ -2,6 +2,8 @@
 
 > An intelligent, professional analytics workspace converting natural-language directives into mathematically verified, interactive visualizations, automated statistical data insights, and publication-ready executive reports.
 
+
+Preview link : https://ai.studio/apps/bf1c1931-fdbf-429f-a4e3-76001c0d80d7?fullscreenApplet=true
 ---
 
 ## 🚀 Key Modules & Architecture
