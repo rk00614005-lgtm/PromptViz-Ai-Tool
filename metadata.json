@@ -1,0 +1,6 @@
+{
+  "name": "PromptViz AI",
+  "description": "Prompt Engineering for Data Visualization — Intelligent analytics workspace transforming natural language into interactive charts, automated insights, and executive reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
